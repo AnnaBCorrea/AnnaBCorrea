@@ -1,12 +1,12 @@
 
 <h1>Olá, seja bem-vindo(a)! 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrepimentelrj/)](https://www.linkedin.com/in/alexandrepimentelrj/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-beatriz-da-silva-corrêa-a7a801288/)](https://www.linkedin.com/in/anna-beatriz-da-silva-corrêa-a7a801288/)
 
-[![Gmail Badge](https://img.shields.io/badge/-acpimentel@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acpimentel@gmail.com)](mailto:acpimentel@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-annabeatrizscorrea@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:annabeatrizscorrea@gmail.com)](mailto:annabeatrizscorrea@gmail.com)
 
 
-## Meu nome é Alexandre
+## Meu nome é Anna Beatriz
 (Java | Spring Boot | React JS | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Desenvolvedor de Software
 - 🎓 Graduado em Tecnologia de Sistemas de Computação pela UFF
